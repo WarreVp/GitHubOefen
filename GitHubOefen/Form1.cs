@@ -29,15 +29,16 @@ namespace GitHubOefen
             label1.Text = "TEst";
         }
 
- button3
+        //button3
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             label1.Text = "TEST RADIO ";
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            label1.Text = "button4";
- master
+            //private void button3_Click(object sender, EventArgs e)
+            {
+                label1.Text = "button4";
+                //master
+            }
         }
-    }
+    } 
 }
