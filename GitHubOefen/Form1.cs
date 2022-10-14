@@ -28,5 +28,10 @@ namespace GitHubOefen
         {
             label1.Text = "TEst";
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            label1.Text = "TEST RADIO ";
+        }
     }
 }
