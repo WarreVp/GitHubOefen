@@ -20,6 +20,7 @@ namespace GitHubOefen
         private void button1_Click(object sender, EventArgs e)
         {
             string str;
+            str = textBox1.Text;
         }
     }
 }
