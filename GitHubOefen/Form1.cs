@@ -21,6 +21,12 @@ namespace GitHubOefen
         {
             string str;
             str = textBox1.Text;
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "TEst";
         }
     }
 }
