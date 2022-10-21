@@ -39,6 +39,12 @@ namespace GitHubOefen
                 label1.Text = "button4";
                 //master
             }
+
+
+
+            label2.Text = "test40";
+
+
         }
     } 
 }
